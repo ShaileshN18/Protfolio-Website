@@ -10,11 +10,10 @@ An interactive 3D portfolio website showcasing my projects, skills, and achievem
 - Contact form
 
 ## Technologies Used
-- React.js
-- Three.js
-- JavaScript
 - HTML
 - CSS
+- JavaScipt
+- WebGL
 
 ## Live Demo
 protfolio-website-green.vercel.app
